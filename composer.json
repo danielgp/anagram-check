@@ -1,0 +1,32 @@
+{
+    "name": "danielgp/anagram-check",
+    "description": "Function to check if 2 words are each other anagram",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Popiniuc",
+            "email": "danielpopiniuc@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7.0 || ^7.1"
+    },
+    "require-dev": {
+        "dealerdirect/phpcodesniffer-composer-installer": "*",
+        "frenck/php-compatibility": "*",
+        "phpunit/phpunit": "~5.7",
+        "phpunit/php-code-coverage": ">=4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "source/AnagramCheck.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "archive": {
+        "exclude": ["/nbproject", "/vendor", "/tests"]
+    }
+}
