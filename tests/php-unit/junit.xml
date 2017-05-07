@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="16" assertions="16" failures="0" errors="0" time="0.123342">
+    <testsuite name="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" tests="16" assertions="16" failures="0" errors="0" time="0.123342">
+      <testcase name="testIsAnagramInvalidBothWordsBooleanFalseFalse" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="33" assertions="1" time="0.011238"/>
+      <testcase name="testIsAnagramInvalidBothWordsBooleanTrueFalse" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="39" assertions="1" time="0.006450"/>
+      <testcase name="testIsAnagramInvalidBothWordsBooleanTrueTrue" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="45" assertions="1" time="0.006087"/>
+      <testcase name="testIsAnagramInvalidBothWordsNull" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="51" assertions="1" time="0.006703"/>
+      <testcase name="testIsAnagramInvalidFirstWordBooleanFalse" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="57" assertions="1" time="0.006643"/>
+      <testcase name="testIsAnagramInvalidFirstWordBooleanTrue" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="63" assertions="1" time="0.009855"/>
+      <testcase name="testIsAnagramInvalidFirstWordEmpty" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="69" assertions="1" time="0.010925"/>
+      <testcase name="testIsAnagramInvalidFirstWordNull" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="75" assertions="1" time="0.007641"/>
+      <testcase name="testIsAnagramInvalidFirstWordNumber0" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="81" assertions="1" time="0.007427"/>
+      <testcase name="testIsAnagramInvalidFirstWordNumber1" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="87" assertions="1" time="0.004600"/>
+      <testcase name="testIsAnagramValidWordsWithSpaceDifferentCaps" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="93" assertions="1" time="0.004968"/>
+      <testcase name="testIsAnagramValidWordsWithSpaceSameCaps" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="99" assertions="1" time="0.015590"/>
+      <testcase name="testIsAnagramValidWordsWithSpaceSameCapsFalse" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="105" assertions="1" time="0.004895"/>
+      <testcase name="testIsAnagramValidWordsWithoutSpaceDifferentCaps" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="111" assertions="1" time="0.005897"/>
+      <testcase name="testIsAnagramValidWordsWithoutSpaceSameCaps" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="117" assertions="1" time="0.004983"/>
+      <testcase name="testIsAnagramValidWordsWithoutSpaceSameCapsFalse" class="AnagramCheckTest" file="C:\www\Data\GitRepositories\GitHub\danielgp\anagram-check\tests\php-unit\AnagramCheckTest.php" line="123" assertions="1" time="0.009440"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

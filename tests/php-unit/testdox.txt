@@ -1,0 +1,18 @@
+AnagramCheck
+ [x] Is anagram invalid both words boolean false false
+ [x] Is anagram invalid both words boolean true false
+ [x] Is anagram invalid both words boolean true true
+ [x] Is anagram invalid both words null
+ [x] Is anagram invalid first word boolean false
+ [x] Is anagram invalid first word boolean true
+ [x] Is anagram invalid first word empty
+ [x] Is anagram invalid first word null
+ [x] Is anagram invalid first word number 0
+ [x] Is anagram invalid first word number 1
+ [x] Is anagram valid words with space different caps
+ [x] Is anagram valid words with space same caps
+ [x] Is anagram valid words with space same caps false
+ [x] Is anagram valid words without space different caps
+ [x] Is anagram valid words without space same caps
+ [x] Is anagram valid words without space same caps false
+
